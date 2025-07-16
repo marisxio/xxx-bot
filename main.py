@@ -68,4 +68,4 @@ def keep_alive():
 keep_alive()
 # === End keep_alive setup ===
 
-bot.run(os.getenv("MTM5NDkyMzIyNzU0MDc1MDQyNw.GxbTR6.7_PIKOpy7475nfSeYtY3efFxgMXKsB8ZEvNC9w"))
+bot.run(os.getenv("DISCORD_TOKEN"))
